@@ -7,7 +7,6 @@ jobs:
       matrix:
         include:
           - arch: x64
-          - arch: arm64
       fail-fast: false
 
     steps:
